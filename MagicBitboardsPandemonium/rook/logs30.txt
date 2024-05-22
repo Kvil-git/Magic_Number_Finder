@@ -1,0 +1,185 @@
+
+magic number 0:	288232577330839808	used: 10
+collisions: 0	maxIndex: 1022
+magic number 1:	281479271940608	used: 10
+collisions: 0	maxIndex: 1022
+magic number 2:	9008300922241536	used: 10
+collisions: 0	maxIndex: 1022
+magic number 3:	290484379283882240	used: 10
+collisions: 0	maxIndex: 1023
+magic number 4:	9232390282765518864	used: 10
+collisions: 0	maxIndex: 1023
+magic number 5:	89215065917446	used: 10
+collisions: 0	maxIndex: 1023
+magic number 6:	4613093672484602368	used: 10
+collisions: 0	maxIndex: 1023
+magic number 7:	216735740662122625	used: 10
+collisions: 0	maxIndex: 1023
+magic number 8:	26542903133697	used: 10
+collisions: 0	maxIndex: 1023
+magic number 9:	9572399772076065	used: 10
+collisions: 0	maxIndex: 1023
+magic number 10:	18858827735893504	used: 10
+collisions: 0	maxIndex: 1023
+magic number 11:	88287347869697	used: 10
+collisions: 0	maxIndex: 1023
+magic number 12:	5630925464406536	used: 10
+collisions: 0	maxIndex: 1023
+magic number 13:	72058710732050438	used: 10
+collisions: 0	maxIndex: 1023
+magic number 14:	148656325717463048	used: 10
+collisions: 0	maxIndex: 1023
+magic number 15:	10092575853088219408	used: 10
+collisions: 0	maxIndex: 1023
+magic number 16:	4612891684466995265	used: 10
+collisions: 0	maxIndex: 1023
+magic number 17:	2882305977720803425	used: 10
+collisions: 0	maxIndex: 1023
+magic number 18:	9385924937572680192	used: 10
+collisions: 0	maxIndex: 1023
+magic number 19:	17609366438417	used: 10
+collisions: 0	maxIndex: 1023
+magic number 20:	76843085254624768	used: 10
+collisions: 0	maxIndex: 1023
+magic number 21:	290625198377412615	used: 10
+collisions: 0	maxIndex: 1023
+magic number 22:	1154610363061768452	used: 10
+collisions: 0	maxIndex: 1023
+magic number 23:	9223803337470709766	used: 10
+collisions: 0	maxIndex: 1023
+magic number 24:	288793953171931396	used: 10
+collisions: 0	maxIndex: 1023
+magic number 25:	72129079474651656	used: 10
+collisions: 0	maxIndex: 1023
+magic number 26:	9295711127352914432	used: 10
+collisions: 0	maxIndex: 1023
+magic number 27:	4756645962146512932	used: 10
+collisions: 0	maxIndex: 1023
+magic number 28:	2201170804864	used: 10
+collisions: 0	maxIndex: 1023
+magic number 29:	293015455055085572	used: 10
+collisions: 0	maxIndex: 1023
+magic number 30:	1143543632570386	used: 10
+collisions: 0	maxIndex: 1023
+magic number 31:	2306971125324186576	used: 10
+collisions: 0	maxIndex: 1023
+magic number 32:	216179430723752072	used: 10
+collisions: 0	maxIndex: 1023
+magic number 33:	14987982188409524496	used: 10
+collisions: 0	maxIndex: 1023
+magic number 34:	1284246763341841	used: 10
+collisions: 0	maxIndex: 1023
+magic number 35:	2305678039319040	used: 10
+collisions: 0	maxIndex: 1023
+magic number 36:	18577374233232716	used: 10
+collisions: 0	maxIndex: 1023
+magic number 37:	9223374527935879184	used: 10
+collisions: 0	maxIndex: 1023
+magic number 38:	4684324206144520456	used: 10
+collisions: 0	maxIndex: 1023
+magic number 39:	2310364218207176216	used: 10
+collisions: 0	maxIndex: 1023
+magic number 40:	325104289590806016	used: 10
+collisions: 0	maxIndex: 1023
+magic number 41:	4652788322874708037	used: 10
+collisions: 0	maxIndex: 1023
+magic number 42:	4613940721639489808	used: 10
+collisions: 0	maxIndex: 1023
+magic number 43:	1441154096970621200	used: 10
+collisions: 0	maxIndex: 1023
+magic number 44:	432627189528264868	used: 10
+collisions: 0	maxIndex: 1023
+magic number 45:	1277649697705992	used: 10
+collisions: 0	maxIndex: 1023
+magic number 46:	9228438612206690568	used: 10
+collisions: 0	maxIndex: 1023
+magic number 47:	13835084735622155026	used: 10
+collisions: 0	maxIndex: 1023
+magic number 48:	9009965213749256	used: 10
+collisions: 0	maxIndex: 1023
+magic number 49:	2305844125910460418	used: 10
+collisions: 0	maxIndex: 1023
+magic number 50:	9233522882821359649	used: 10
+collisions: 0	maxIndex: 1023
+magic number 51:	9245891426565623848	used: 10
+collisions: 0	maxIndex: 1023
+magic number 52:	144191071560306696	used: 10
+collisions: 0	maxIndex: 1023
+magic number 53:	2305844125906280968	used: 10
+collisions: 0	maxIndex: 1023
+magic number 54:	10376321596188100752	used: 10
+collisions: 0	maxIndex: 1023
+magic number 55:	18656667922097667	used: 10
+collisions: 0	maxIndex: 1023
+magic number 56:	72066407311212816	used: 10
+collisions: 0	maxIndex: 1023
+magic number 57:	288514960685273089	used: 10
+collisions: 0	maxIndex: 1023
+magic number 58:	2310918372068831361	used: 10
+collisions: 0	maxIndex: 1023
+magic number 59:	2450037929063483202	used: 10
+collisions: 0	maxIndex: 1023
+magic number 60:	1101659242624	used: 10
+collisions: 0	maxIndex: 1023
+magic number 61:	24206438305857	used: 10
+collisions: 0	maxIndex: 1023
+magic number 62:	2260613086790192	used: 10
+collisions: 0	maxIndex: 1023
+magic number 63:	8106778413619347720	used: 10
+collisions: 0	maxIndex: 1023
+magic number 64:	4576322014187585	used: 10
+collisions: 0	maxIndex: 1023
+magic number 65:	150914585165037826	used: 10
+collisions: 0	maxIndex: 1023
+magic number 66:	288531865678579728	used: 10
+collisions: 0	maxIndex: 1023
+magic number 67:	3549015812663674882	used: 10
+collisions: 0	maxIndex: 1023
+magic number 68:	1116692156520	used: 10
+collisions: 0	maxIndex: 1023
+magic number 69:	9277697261410844676	used: 10
+collisions: 0	maxIndex: 1023
+magic number 70:	72059810242103301	used: 10
+collisions: 0	maxIndex: 1023
+magic number 71:	281487861875200	used: 10
+collisions: 0	maxIndex: 1023
+magic number 72:	2533485243924484	used: 10
+collisions: 0	maxIndex: 1023
+magic number 73:	145804313896157440	used: 10
+collisions: 0	maxIndex: 1023
+magic number 74:	79216377856258	used: 10
+collisions: 0	maxIndex: 1023
+magic number 75:	153132300125736968	used: 10
+collisions: 0	maxIndex: 1023
+magic number 76:	4756082823215054852	used: 10
+collisions: 0	maxIndex: 1023
+magic number 77:	1171217657266044932	used: 10
+collisions: 0	maxIndex: 1023
+magic number 78:	9223523924083484737	used: 10
+collisions: 0	maxIndex: 1023
+magic number 79:	1128116111049032	used: 10
+collisions: 0	maxIndex: 1023
+magic number 80:	2305860893457582114	used: 10
+collisions: 0	maxIndex: 1023
+magic number 81:	562975725553684	used: 10
+collisions: 0	maxIndex: 1023
+magic number 82:	288235890894968842	used: 10
+collisions: 0	maxIndex: 1023
+magic number 83:	5405454266026504214	used: 10
+collisions: 0	maxIndex: 1023
+magic number 84:	3747557848516397057	used: 10
+collisions: 0	maxIndex: 1023
+magic number 85:	2603362338769994240	used: 10
+collisions: 0	maxIndex: 1023
+magic number 86:	162158176043532544	used: 10
+collisions: 0	maxIndex: 1023
+magic number 87:	9912786092624	used: 10
+collisions: 0	maxIndex: 1023
+magic number 88:	1157994668438339848	used: 10
+collisions: 0	maxIndex: 1023
+magic number 89:	1224996982898688776	used: 10
+collisions: 0	maxIndex: 1023
+magic number 90:	432627043499376708	used: 10
+collisions: 0	maxIndex: 1023
+magic number 91:	865254086998557704	used: 10
+collisions: 0	maxIndex: 1023

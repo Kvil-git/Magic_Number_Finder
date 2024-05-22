@@ -1,0 +1,841 @@
+
+magic number 0:	10376333195019943937	used: 11
+collisions: 0	maxIndex: 2046
+magic number 1:	4629740002044149761	used: 11
+collisions: 0	maxIndex: 2046
+magic number 2:	4785145743736850	used: 11
+collisions: 0	maxIndex: 2047
+magic number 3:	11603537644818137089	used: 11
+collisions: 0	maxIndex: 2047
+magic number 4:	1170940593229135873	used: 11
+collisions: 0	maxIndex: 2047
+magic number 5:	14236482067890189	used: 11
+collisions: 0	maxIndex: 2047
+magic number 6:	11531471673434177537	used: 11
+collisions: 0	maxIndex: 2047
+magic number 7:	1017814014027235329	used: 11
+collisions: 0	maxIndex: 2047
+magic number 8:	637282680836	used: 11
+collisions: 0	maxIndex: 2047
+magic number 9:	4755801483681071108	used: 11
+collisions: 0	maxIndex: 2047
+magic number 10:	864692230294732804	used: 11
+collisions: 0	maxIndex: 2047
+magic number 11:	2305847425524957189	used: 11
+collisions: 0	maxIndex: 2047
+magic number 12:	176750797651972	used: 11
+collisions: 0	maxIndex: 2047
+magic number 13:	2315427454493261828	used: 11
+collisions: 0	maxIndex: 2047
+magic number 14:	38597537569308673	used: 11
+collisions: 0	maxIndex: 2047
+magic number 15:	44273202495489	used: 11
+collisions: 0	maxIndex: 2047
+magic number 16:	144256217630507009	used: 11
+collisions: 0	maxIndex: 2047
+magic number 17:	11538222524504604676	used: 11
+collisions: 0	maxIndex: 2047
+magic number 18:	13511349778907169	used: 11
+collisions: 0	maxIndex: 2047
+magic number 19:	2305847442702204937	used: 11
+collisions: 0	maxIndex: 2047
+magic number 20:	289919794038308868	used: 11
+collisions: 0	maxIndex: 2047
+magic number 21:	2396479053377961996	used: 11
+collisions: 0	maxIndex: 2047
+magic number 22:	40675922709446689	used: 11
+collisions: 0	maxIndex: 2047
+magic number 23:	74310291508297732	used: 11
+collisions: 0	maxIndex: 2047
+magic number 24:	4612251752610529284	used: 11
+collisions: 0	maxIndex: 2047
+magic number 25:	288230668218007569	used: 11
+collisions: 0	maxIndex: 2047
+magic number 26:	14465654371779739649	used: 11
+collisions: 0	maxIndex: 2047
+magic number 27:	29555611293319169	used: 11
+collisions: 0	maxIndex: 2047
+magic number 28:	9556638721219100676	used: 11
+collisions: 0	maxIndex: 2047
+magic number 29:	5768549687154049025	used: 11
+collisions: 0	maxIndex: 2047
+magic number 30:	10665087161840304129	used: 11
+collisions: 0	maxIndex: 2047
+magic number 31:	36286840832004	used: 11
+collisions: 0	maxIndex: 2047
+magic number 32:	290763652091412482	used: 11
+collisions: 0	maxIndex: 2047
+magic number 33:	72202733070974979	used: 11
+collisions: 0	maxIndex: 2047
+magic number 34:	9007521385807908	used: 11
+collisions: 0	maxIndex: 2047
+magic number 35:	720862432968441860	used: 11
+collisions: 0	maxIndex: 2047
+magic number 36:	9226191331779543065	used: 11
+collisions: 0	maxIndex: 2047
+magic number 37:	5769142256888053764	used: 11
+collisions: 0	maxIndex: 2047
+magic number 38:	9441868722699632643	used: 11
+collisions: 0	maxIndex: 2047
+magic number 39:	324540722277580822	used: 11
+collisions: 0	maxIndex: 2047
+magic number 40:	1136087578574849	used: 11
+collisions: 0	maxIndex: 2047
+magic number 41:	5069302659678244	used: 11
+collisions: 0	maxIndex: 2047
+magic number 42:	88238291288065	used: 11
+collisions: 0	maxIndex: 2047
+magic number 43:	10098340475607056388	used: 11
+collisions: 0	maxIndex: 2047
+magic number 44:	324259724337479681	used: 11
+collisions: 0	maxIndex: 2047
+magic number 45:	288511852260950022	used: 11
+collisions: 0	maxIndex: 2047
+magic number 46:	4611690487747837963	used: 11
+collisions: 0	maxIndex: 2047
+magic number 47:	36038720629112852	used: 11
+collisions: 0	maxIndex: 2047
+magic number 48:	9223390188477218820	used: 11
+collisions: 0	maxIndex: 2047
+magic number 49:	2308130565721030660	used: 11
+collisions: 0	maxIndex: 2047
+magic number 50:	1131398547505156	used: 11
+collisions: 0	maxIndex: 2047
+magic number 51:	7345847926915092	used: 11
+collisions: 0	maxIndex: 2047
+magic number 52:	1306044443102674945	used: 11
+collisions: 0	maxIndex: 2047
+magic number 53:	1152925903736668161	used: 11
+collisions: 0	maxIndex: 2047
+magic number 54:	2308939663462760453	used: 11
+collisions: 0	maxIndex: 2047
+magic number 55:	184647861765537796	used: 11
+collisions: 0	maxIndex: 2047
+magic number 56:	14412153236570112020	used: 11
+collisions: 0	maxIndex: 2047
+magic number 57:	18577627644297220	used: 11
+collisions: 0	maxIndex: 2047
+magic number 58:	288230943091720193	used: 11
+collisions: 0	maxIndex: 2047
+magic number 59:	4507449142935588	used: 11
+collisions: 0	maxIndex: 2047
+magic number 60:	2604744162017284	used: 11
+collisions: 0	maxIndex: 2047
+magic number 61:	577027348709376004	used: 11
+collisions: 0	maxIndex: 2047
+magic number 62:	1729663742907056130	used: 11
+collisions: 0	maxIndex: 2047
+magic number 63:	2820267462230020	used: 11
+collisions: 0	maxIndex: 2047
+magic number 64:	4611690418634096659	used: 11
+collisions: 0	maxIndex: 2047
+magic number 65:	1152992975014461444	used: 11
+collisions: 0	maxIndex: 2047
+magic number 66:	613896994074853386	used: 11
+collisions: 0	maxIndex: 2047
+magic number 67:	4400198320133	used: 11
+collisions: 0	maxIndex: 2047
+magic number 68:	1224980200341766148	used: 11
+collisions: 0	maxIndex: 2047
+magic number 69:	2306160219442511876	used: 11
+collisions: 0	maxIndex: 2047
+magic number 70:	36033334656237569	used: 11
+collisions: 0	maxIndex: 2047
+magic number 71:	1270024168054325252	used: 11
+collisions: 0	maxIndex: 2047
+magic number 72:	9295438742716547076	used: 11
+collisions: 0	maxIndex: 2047
+magic number 73:	12110183832583274497	used: 11
+collisions: 0	maxIndex: 2047
+magic number 74:	324681664817135652	used: 11
+collisions: 0	maxIndex: 2047
+magic number 75:	9232382588369371140	used: 11
+collisions: 0	maxIndex: 2047
+magic number 76:	2287811436871689	used: 11
+collisions: 0	maxIndex: 2047
+magic number 77:	1702046286872585	used: 11
+collisions: 0	maxIndex: 2047
+magic number 78:	594476277176860692	used: 11
+collisions: 0	maxIndex: 2047
+magic number 79:	36099759827714052	used: 11
+collisions: 0	maxIndex: 2047
+magic number 80:	577586929839767555	used: 11
+collisions: 0	maxIndex: 2047
+magic number 81:	19281586801737733	used: 11
+collisions: 0	maxIndex: 2047
+magic number 82:	3299969466372	used: 11
+collisions: 0	maxIndex: 2047
+magic number 83:	7066746520904794124	used: 11
+collisions: 0	maxIndex: 2047
+magic number 84:	36029082701529089	used: 11
+collisions: 0	maxIndex: 2047
+magic number 85:	38484526104580	used: 11
+collisions: 0	maxIndex: 2047
+magic number 86:	1107036340228	used: 11
+collisions: 0	maxIndex: 2047
+magic number 87:	5383490938208260	used: 11
+collisions: 0	maxIndex: 2047
+magic number 88:	288252367466528769	used: 11
+collisions: 0	maxIndex: 2047
+magic number 89:	7894494620024837	used: 11
+collisions: 0	maxIndex: 2047
+magic number 90:	866980625206345748	used: 11
+collisions: 0	maxIndex: 2047
+magic number 91:	9583660566533242881	used: 11
+collisions: 0	maxIndex: 2047
+magic number 92:	2306986780489023492	used: 11
+collisions: 0	maxIndex: 2047
+magic number 93:	11889644304643260417	used: 11
+collisions: 0	maxIndex: 2047
+magic number 94:	13845195554725953537	used: 11
+collisions: 0	maxIndex: 2047
+magic number 95:	4513500609511428	used: 11
+collisions: 0	maxIndex: 2047
+magic number 96:	9512236092556967937	used: 11
+collisions: 0	maxIndex: 2047
+magic number 97:	141338788626455	used: 11
+collisions: 0	maxIndex: 2047
+magic number 98:	4647754433575649281	used: 11
+collisions: 0	maxIndex: 2047
+magic number 99:	292066557969	used: 11
+collisions: 0	maxIndex: 2047
+magic number 100:	4578403467526145	used: 11
+collisions: 0	maxIndex: 2047
+magic number 101:	1157425383684308996	used: 11
+collisions: 0	maxIndex: 2047
+magic number 102:	2305843560060682276	used: 11
+collisions: 0	maxIndex: 2047
+magic number 103:	9042675693125633	used: 11
+collisions: 0	maxIndex: 2047
+magic number 104:	299618059550725	used: 11
+collisions: 0	maxIndex: 2047
+magic number 105:	9367491624193622017	used: 11
+collisions: 0	maxIndex: 2047
+magic number 106:	9223376436117766161	used: 11
+collisions: 0	maxIndex: 2047
+magic number 107:	10385305277418307601	used: 11
+collisions: 0	maxIndex: 2047
+magic number 108:	4040010489244221442	used: 11
+collisions: 0	maxIndex: 2047
+magic number 109:	9223394028169854977	used: 11
+collisions: 0	maxIndex: 2047
+magic number 110:	18296440426201089	used: 11
+collisions: 0	maxIndex: 2047
+magic number 111:	1152957255918944257	used: 11
+collisions: 0	maxIndex: 2047
+magic number 112:	2305861156008493060	used: 11
+collisions: 0	maxIndex: 2047
+magic number 113:	74772201996289	used: 11
+collisions: 0	maxIndex: 2047
+magic number 114:	167402944987148	used: 11
+collisions: 0	maxIndex: 2047
+magic number 115:	1189021773195771908	used: 11
+collisions: 0	maxIndex: 2047
+magic number 116:	1805944277424013315	used: 11
+collisions: 0	maxIndex: 2047
+magic number 117:	73184079471837185	used: 11
+collisions: 0	maxIndex: 2047
+magic number 118:	2594146299213381641	used: 11
+collisions: 0	maxIndex: 2047
+magic number 119:	288514755667558401	used: 11
+collisions: 0	maxIndex: 2047
+magic number 120:	9513891102366498820	used: 11
+collisions: 0	maxIndex: 2047
+magic number 121:	9304652336880812033	used: 11
+collisions: 0	maxIndex: 2047
+magic number 122:	324268541635330057	used: 11
+collisions: 0	maxIndex: 2047
+magic number 123:	594485049782042660	used: 11
+collisions: 0	maxIndex: 2047
+magic number 124:	9223707939067527169	used: 11
+collisions: 0	maxIndex: 2047
+magic number 125:	5630084792320005	used: 11
+collisions: 0	maxIndex: 2047
+magic number 126:	4611827322956939265	used: 11
+collisions: 0	maxIndex: 2047
+magic number 127:	76596655080996876	used: 11
+collisions: 0	maxIndex: 2047
+magic number 128:	19426337878048773	used: 11
+collisions: 0	maxIndex: 2047
+magic number 129:	2252077444235265	used: 11
+collisions: 0	maxIndex: 2047
+magic number 130:	11271181814595620	used: 11
+collisions: 0	maxIndex: 2047
+magic number 131:	1275987963019268	used: 11
+collisions: 0	maxIndex: 2047
+magic number 132:	9820099279547662337	used: 11
+collisions: 0	maxIndex: 2047
+magic number 133:	9376494975167102996	used: 11
+collisions: 0	maxIndex: 2047
+magic number 134:	9020394544693249	used: 11
+collisions: 0	maxIndex: 2047
+magic number 135:	72341836114558977	used: 11
+collisions: 0	maxIndex: 2047
+magic number 136:	585488378461552649	used: 11
+collisions: 0	maxIndex: 2047
+magic number 137:	147215811949494273	used: 11
+collisions: 0	maxIndex: 2047
+magic number 138:	4611699223317053441	used: 11
+collisions: 0	maxIndex: 2047
+magic number 139:	2882516280802410532	used: 11
+collisions: 0	maxIndex: 2047
+magic number 140:	288231478927687684	used: 11
+collisions: 0	maxIndex: 2047
+magic number 141:	2522016891988475916	used: 11
+collisions: 0	maxIndex: 2047
+magic number 142:	576535581526458369	used: 11
+collisions: 0	maxIndex: 2047
+magic number 143:	2540030486215000100	used: 11
+collisions: 0	maxIndex: 2047
+magic number 144:	36332831110201345	used: 11
+collisions: 0	maxIndex: 2047
+magic number 145:	440905244999684	used: 11
+collisions: 0	maxIndex: 2047
+magic number 146:	4611690693516722180	used: 11
+collisions: 0	maxIndex: 2047
+magic number 147:	14988001552275996673	used: 11
+collisions: 0	maxIndex: 2047
+magic number 148:	144116462615920644	used: 11
+collisions: 0	maxIndex: 2047
+magic number 149:	1229482975314444292	used: 11
+collisions: 0	maxIndex: 2047
+magic number 150:	9259968495414804484	used: 11
+collisions: 0	maxIndex: 2047
+magic number 151:	9259403309989625861	used: 11
+collisions: 0	maxIndex: 2047
+magic number 152:	14124577610377854988	used: 11
+collisions: 0	maxIndex: 2047
+magic number 153:	11818013329656512516	used: 11
+collisions: 0	maxIndex: 2047
+magic number 154:	9300496575653347331	used: 11
+collisions: 0	maxIndex: 2047
+magic number 155:	550948175876	used: 11
+collisions: 0	maxIndex: 2047
+magic number 156:	1172062082205614116	used: 11
+collisions: 0	maxIndex: 2047
+magic number 157:	145702474874905	used: 11
+collisions: 0	maxIndex: 2047
+magic number 158:	1225051992972984333	used: 11
+collisions: 0	maxIndex: 2047
+magic number 159:	1171006859214192644	used: 11
+collisions: 0	maxIndex: 2047
+magic number 160:	21992652800005	used: 11
+collisions: 0	maxIndex: 2047
+magic number 161:	2886808065657929731	used: 11
+collisions: 0	maxIndex: 2047
+magic number 162:	1298163428030808065	used: 11
+collisions: 0	maxIndex: 2047
+magic number 163:	1441153272537808913	used: 11
+collisions: 0	maxIndex: 2047
+magic number 164:	4620693802938662913	used: 11
+collisions: 0	maxIndex: 2047
+magic number 165:	238771595496259585	used: 11
+collisions: 0	maxIndex: 2047
+magic number 166:	2305852117297004545	used: 11
+collisions: 0	maxIndex: 2047
+magic number 167:	5336845015339630593	used: 11
+collisions: 0	maxIndex: 2047
+magic number 168:	1153204646068748289	used: 11
+collisions: 0	maxIndex: 2047
+magic number 169:	360785772545	used: 11
+collisions: 0	maxIndex: 2047
+magic number 170:	180144616492892164	used: 11
+collisions: 0	maxIndex: 2047
+magic number 171:	288934340636049412	used: 11
+collisions: 0	maxIndex: 2047
+magic number 172:	4904455455671713793	used: 11
+collisions: 0	maxIndex: 2047
+magic number 173:	4506365859069961	used: 11
+collisions: 0	maxIndex: 2047
+magic number 174:	2305879295786090500	used: 11
+collisions: 0	maxIndex: 2047
+magic number 175:	2882375508954316804	used: 11
+collisions: 0	maxIndex: 2047
+magic number 176:	4612284429845528577	used: 11
+collisions: 0	maxIndex: 2047
+magic number 177:	2305882592714555393	used: 11
+collisions: 0	maxIndex: 2047
+magic number 178:	9241387535974924292	used: 11
+collisions: 0	maxIndex: 2047
+magic number 179:	72079607905517601	used: 11
+collisions: 0	maxIndex: 2047
+magic number 180:	37597029232410657	used: 11
+collisions: 0	maxIndex: 2047
+magic number 181:	1297179152465657892	used: 11
+collisions: 0	maxIndex: 2047
+magic number 182:	151996779490312195	used: 11
+collisions: 0	maxIndex: 2047
+magic number 183:	1272382085813895169	used: 11
+collisions: 0	maxIndex: 2047
+magic number 184:	1154891830594306050	used: 11
+collisions: 0	maxIndex: 2047
+magic number 185:	144396665237864458	used: 11
+collisions: 0	maxIndex: 2047
+magic number 186:	3439823218147364	used: 11
+collisions: 0	maxIndex: 2047
+magic number 187:	78813684230651909	used: 11
+collisions: 0	maxIndex: 2047
+magic number 188:	36294625460228	used: 11
+collisions: 0	maxIndex: 2047
+magic number 189:	470627336274968580	used: 11
+collisions: 0	maxIndex: 2047
+magic number 190:	1152924254527946753	used: 11
+collisions: 0	maxIndex: 2047
+magic number 191:	216173074230411265	used: 11
+collisions: 0	maxIndex: 2047
+magic number 192:	5197155348745682948	used: 11
+collisions: 0	maxIndex: 2047
+magic number 193:	146508848683941892	used: 11
+collisions: 0	maxIndex: 2047
+magic number 194:	704000983433236	used: 11
+collisions: 0	maxIndex: 2047
+magic number 195:	13835060805202214929	used: 11
+collisions: 0	maxIndex: 2047
+magic number 196:	282042193543169	used: 11
+collisions: 0	maxIndex: 2047
+magic number 197:	828666732712427537	used: 11
+collisions: 0	maxIndex: 2047
+magic number 198:	292353605635	used: 11
+collisions: 0	maxIndex: 2047
+magic number 199:	9223372590980136964	used: 11
+collisions: 0	maxIndex: 2047
+magic number 200:	281480355971074	used: 11
+collisions: 0	maxIndex: 2047
+magic number 201:	1170391302188	used: 11
+collisions: 0	maxIndex: 2047
+magic number 202:	586031227971174403	used: 11
+collisions: 0	maxIndex: 2047
+magic number 203:	144119625859334145	used: 11
+collisions: 0	maxIndex: 2047
+magic number 204:	11675618353283727364	used: 11
+collisions: 0	maxIndex: 2047
+magic number 205:	72060364967247876	used: 11
+collisions: 0	maxIndex: 2047
+magic number 206:	144189974198222857	used: 11
+collisions: 0	maxIndex: 2047
+magic number 207:	564060206792708	used: 11
+collisions: 0	maxIndex: 2047
+magic number 208:	2306406375921680388	used: 11
+collisions: 0	maxIndex: 2047
+magic number 209:	4695005377633320963	used: 11
+collisions: 0	maxIndex: 2047
+magic number 210:	2305847417067667457	used: 11
+collisions: 0	maxIndex: 2047
+magic number 211:	867101603755327489	used: 11
+collisions: 0	maxIndex: 2047
+magic number 212:	27046068407631873	used: 11
+collisions: 0	maxIndex: 2047
+magic number 213:	72057955125690377	used: 11
+collisions: 0	maxIndex: 2047
+magic number 214:	72339071300599810	used: 11
+collisions: 0	maxIndex: 2047
+magic number 215:	2363338948564090900	used: 11
+collisions: 0	maxIndex: 2047
+magic number 216:	2257299524681740	used: 11
+collisions: 0	maxIndex: 2047
+magic number 217:	13835067197189390337	used: 11
+collisions: 0	maxIndex: 2047
+magic number 218:	1441438035152601100	used: 11
+collisions: 0	maxIndex: 2047
+magic number 219:	384450035724	used: 11
+collisions: 0	maxIndex: 2047
+magic number 220:	4976618880325255180	used: 11
+collisions: 0	maxIndex: 2047
+magic number 221:	585488843361353756	used: 11
+collisions: 0	maxIndex: 2047
+magic number 222:	2525466066945	used: 11
+collisions: 0	maxIndex: 2047
+magic number 223:	576461031501594628	used: 11
+collisions: 0	maxIndex: 2047
+magic number 224:	25614225838243842	used: 11
+collisions: 0	maxIndex: 2047
+magic number 225:	9512728605013966849	used: 11
+collisions: 0	maxIndex: 2047
+magic number 226:	9007478436134916	used: 11
+collisions: 0	maxIndex: 2047
+magic number 227:	289077567045894145	used: 11
+collisions: 0	maxIndex: 2047
+magic number 228:	1102200832004	used: 11
+collisions: 0	maxIndex: 2047
+magic number 229:	3468383043159719937	used: 11
+collisions: 0	maxIndex: 2047
+magic number 230:	18692850188292	used: 11
+collisions: 0	maxIndex: 2047
+magic number 231:	2317244396665438212	used: 11
+collisions: 0	maxIndex: 2047
+magic number 232:	585754925175275556	used: 11
+collisions: 0	maxIndex: 2047
+magic number 233:	4649126197538717700	used: 11
+collisions: 0	maxIndex: 2047
+magic number 234:	2308130309096472588	used: 11
+collisions: 0	maxIndex: 2047
+magic number 235:	18579839621660677	used: 11
+collisions: 0	maxIndex: 2047
+magic number 236:	2315976675852156929	used: 11
+collisions: 0	maxIndex: 2047
+magic number 237:	577586929305255939	used: 11
+collisions: 0	maxIndex: 2047
+magic number 238:	576742298151878690	used: 11
+collisions: 0	maxIndex: 2047
+magic number 239:	76561472846692372	used: 11
+collisions: 0	maxIndex: 2047
+magic number 240:	289360159799640068	used: 11
+collisions: 0	maxIndex: 2047
+magic number 241:	9223374789933400076	used: 11
+collisions: 0	maxIndex: 2047
+magic number 242:	6197027856497901573	used: 11
+collisions: 0	maxIndex: 2047
+magic number 243:	4965120999457	used: 11
+collisions: 0	maxIndex: 2047
+magic number 244:	72234082838380545	used: 11
+collisions: 0	maxIndex: 2047
+magic number 245:	281477138415622	used: 11
+collisions: 0	maxIndex: 2047
+magic number 246:	1100962988060	used: 11
+collisions: 0	maxIndex: 2047
+magic number 247:	126101116076556305	used: 11
+collisions: 0	maxIndex: 2047
+magic number 248:	9367768735483494434	used: 11
+collisions: 0	maxIndex: 2047
+magic number 249:	1153071589219762177	used: 11
+collisions: 0	maxIndex: 2047
+magic number 250:	150100554940427	used: 11
+collisions: 0	maxIndex: 2047
+magic number 251:	4764811741915906052	used: 11
+collisions: 0	maxIndex: 2047
+magic number 252:	1315051383325589509	used: 11
+collisions: 0	maxIndex: 2047
+magic number 253:	36029897612853252	used: 11
+collisions: 0	maxIndex: 2047
+magic number 254:	220676658833784833	used: 11
+collisions: 0	maxIndex: 2047
+magic number 255:	18693849481220	used: 11
+collisions: 0	maxIndex: 2047
+magic number 256:	2315203702598795265	used: 11
+collisions: 0	maxIndex: 2047
+magic number 257:	4400735191049	used: 11
+collisions: 0	maxIndex: 2047
+magic number 258:	4650533964410388481	used: 11
+collisions: 0	maxIndex: 2047
+magic number 259:	4630029742953857028	used: 11
+collisions: 0	maxIndex: 2047
+magic number 260:	576749116449751057	used: 11
+collisions: 0	maxIndex: 2047
+magic number 261:	2052036599349252	used: 11
+collisions: 0	maxIndex: 2047
+magic number 262:	36311374754086932	used: 11
+collisions: 0	maxIndex: 2047
+magic number 263:	27021889931182093	used: 11
+collisions: 0	maxIndex: 2047
+magic number 264:	9367488359884259364	used: 11
+collisions: 0	maxIndex: 2047
+magic number 265:	576461303334436865	used: 11
+collisions: 0	maxIndex: 2047
+magic number 266:	4504706256863252	used: 11
+collisions: 0	maxIndex: 2047
+magic number 267:	2594073939487621124	used: 11
+collisions: 0	maxIndex: 2047
+magic number 268:	20275306136993793	used: 11
+collisions: 0	maxIndex: 2047
+magic number 269:	281476058906642	used: 11
+collisions: 0	maxIndex: 2047
+magic number 270:	72057873354063892	used: 11
+collisions: 0	maxIndex: 2047
+magic number 271:	72062818935504897	used: 11
+collisions: 0	maxIndex: 2047
+magic number 272:	563227046051841	used: 11
+collisions: 0	maxIndex: 2047
+magic number 273:	5769183192251236365	used: 11
+collisions: 0	maxIndex: 2047
+magic number 274:	90076391692959749	used: 11
+collisions: 0	maxIndex: 2047
+magic number 275:	4683761771591368721	used: 11
+collisions: 0	maxIndex: 2047
+magic number 276:	9295434100523532289	used: 11
+collisions: 0	maxIndex: 2047
+magic number 277:	1970880162955265	used: 11
+collisions: 0	maxIndex: 2047
+magic number 278:	4611687196850782212	used: 11
+collisions: 0	maxIndex: 2047
+magic number 279:	1407666949849089	used: 11
+collisions: 0	maxIndex: 2047
+magic number 280:	74392966407520257	used: 11
+collisions: 0	maxIndex: 2047
+magic number 281:	720576354861056004	used: 11
+collisions: 0	maxIndex: 2047
+magic number 282:	1407375966404610	used: 11
+collisions: 0	maxIndex: 2047
+magic number 283:	1244472230246219780	used: 11
+collisions: 0	maxIndex: 2047
+magic number 284:	4504153682739212	used: 11
+collisions: 0	maxIndex: 2047
+magic number 285:	9967066055325122564	used: 11
+collisions: 0	maxIndex: 2047
+magic number 286:	436849717947006980	used: 11
+collisions: 0	maxIndex: 2047
+magic number 287:	2305852910329790476	used: 11
+collisions: 0	maxIndex: 2047
+magic number 288:	4834855490027525	used: 11
+collisions: 0	maxIndex: 2047
+magic number 289:	288235053380141092	used: 11
+collisions: 0	maxIndex: 2047
+magic number 290:	38562072891686938	used: 11
+collisions: 0	maxIndex: 2047
+magic number 291:	72058737583587332	used: 11
+collisions: 0	maxIndex: 2047
+magic number 292:	1152956981078786049	used: 11
+collisions: 0	maxIndex: 2047
+magic number 293:	73136112533505	used: 11
+collisions: 0	maxIndex: 2047
+magic number 294:	282042470367249	used: 11
+collisions: 0	maxIndex: 2047
+magic number 295:	2384937557399502850	used: 11
+collisions: 0	maxIndex: 2047
+magic number 296:	1152922055637860353	used: 11
+collisions: 0	maxIndex: 2047
+magic number 297:	290821968101397	used: 11
+collisions: 0	maxIndex: 2047
+magic number 298:	2305844109807583236	used: 11
+collisions: 0	maxIndex: 2047
+magic number 299:	5700422334021636	used: 11
+collisions: 0	maxIndex: 2047
+magic number 300:	90076670044012548	used: 11
+collisions: 0	maxIndex: 2047
+magic number 301:	576505458622332932	used: 11
+collisions: 0	maxIndex: 2047
+magic number 302:	1152921801102327828	used: 11
+collisions: 0	maxIndex: 2047
+magic number 303:	9223409971633455108	used: 11
+collisions: 0	maxIndex: 2047
+magic number 304:	281683295272966	used: 11
+collisions: 0	maxIndex: 2047
+magic number 305:	1152921796673142813	used: 11
+collisions: 0	maxIndex: 2047
+magic number 306:	54048833012891652	used: 11
+collisions: 0	maxIndex: 2047
+magic number 307:	54043749784879116	used: 11
+collisions: 0	maxIndex: 2047
+magic number 308:	979412058115	used: 11
+collisions: 0	maxIndex: 2047
+magic number 309:	144116289739292676	used: 11
+collisions: 0	maxIndex: 2047
+magic number 310:	1319554967912185861	used: 11
+collisions: 0	maxIndex: 2047
+magic number 311:	1170938669079592961	used: 11
+collisions: 0	maxIndex: 2047
+magic number 312:	2326110586230145028	used: 11
+collisions: 0	maxIndex: 2047
+magic number 313:	2305913979257880609	used: 11
+collisions: 0	maxIndex: 2047
+magic number 314:	9020951001956369	used: 11
+collisions: 0	maxIndex: 2047
+magic number 315:	1161964524027904001	used: 11
+collisions: 0	maxIndex: 2047
+magic number 316:	144221292139249668	used: 11
+collisions: 0	maxIndex: 2047
+magic number 317:	3171171861128151049	used: 11
+collisions: 0	maxIndex: 2047
+magic number 318:	11341146488836	used: 11
+collisions: 0	maxIndex: 2047
+magic number 319:	7036875499962378	used: 11
+collisions: 0	maxIndex: 2047
+magic number 320:	9225668094226202629	used: 11
+collisions: 0	maxIndex: 2047
+magic number 321:	36702799798599692	used: 11
+collisions: 0	maxIndex: 2047
+magic number 322:	2305843564355125252	used: 11
+collisions: 0	maxIndex: 2047
+magic number 323:	63055085098369027	used: 11
+collisions: 0	maxIndex: 2047
+magic number 324:	36065091644686340	used: 11
+collisions: 0	maxIndex: 2047
+magic number 325:	1128390996656133	used: 11
+collisions: 0	maxIndex: 2047
+magic number 326:	144151069374152705	used: 11
+collisions: 0	maxIndex: 2047
+magic number 327:	5764643809069760516	used: 11
+collisions: 0	maxIndex: 2047
+magic number 328:	324914483183091713	used: 11
+collisions: 0	maxIndex: 2047
+magic number 329:	9241390844689383425	used: 11
+collisions: 0	maxIndex: 2047
+magic number 330:	3206598686209605633	used: 11
+collisions: 0	maxIndex: 2047
+magic number 331:	20276373109211156	used: 11
+collisions: 0	maxIndex: 2047
+magic number 332:	143228578430977	used: 11
+collisions: 0	maxIndex: 2047
+magic number 333:	38290494589108276	used: 11
+collisions: 0	maxIndex: 2047
+magic number 334:	324263573004091393	used: 11
+collisions: 0	maxIndex: 2047
+magic number 335:	4512946617188353	used: 11
+collisions: 0	maxIndex: 2047
+magic number 336:	216192024710873105	used: 11
+collisions: 0	maxIndex: 2047
+magic number 337:	37436321161609226	used: 11
+collisions: 0	maxIndex: 2047
+magic number 338:	9223603761145839617	used: 11
+collisions: 0	maxIndex: 2047
+magic number 339:	4650423223189508	used: 11
+collisions: 0	maxIndex: 2047
+magic number 340:	9223653588075741186	used: 11
+collisions: 0	maxIndex: 2047
+magic number 341:	1189236184390696969	used: 11
+collisions: 0	maxIndex: 2047
+magic number 342:	281481423421458	used: 11
+collisions: 0	maxIndex: 2047
+magic number 343:	2306124486880067594	used: 11
+collisions: 0	maxIndex: 2047
+magic number 344:	141907938377740	used: 11
+collisions: 0	maxIndex: 2047
+magic number 345:	4836866550642638876	used: 11
+collisions: 0	maxIndex: 2047
+magic number 346:	288278829829586953	used: 11
+collisions: 0	maxIndex: 2047
+magic number 347:	2310646545752129564	used: 11
+collisions: 0	maxIndex: 2047
+magic number 348:	285951524865	used: 11
+collisions: 0	maxIndex: 2047
+magic number 349:	1126176999473153	used: 11
+collisions: 0	maxIndex: 2047
+magic number 350:	721317582585593860	used: 11
+collisions: 0	maxIndex: 2047
+magic number 351:	1153203256676188193	used: 11
+collisions: 0	maxIndex: 2047
+magic number 352:	20352795279364	used: 11
+collisions: 0	maxIndex: 2047
+magic number 353:	2326390684800581634	used: 11
+collisions: 0	maxIndex: 2047
+magic number 354:	71760322625569	used: 11
+collisions: 0	maxIndex: 2047
+magic number 355:	576742794356457489	used: 11
+collisions: 0	maxIndex: 2047
+magic number 356:	2310355684150083588	used: 11
+collisions: 0	maxIndex: 2047
+magic number 357:	5188722916041293825	used: 11
+collisions: 0	maxIndex: 2047
+magic number 358:	1477396461237960708	used: 11
+collisions: 0	maxIndex: 2047
+magic number 359:	1410708860436484	used: 11
+collisions: 0	maxIndex: 2047
+magic number 360:	281477136842754	used: 11
+collisions: 0	maxIndex: 2047
+magic number 361:	364800916756496388	used: 11
+collisions: 0	maxIndex: 2047
+magic number 362:	1154051803659239437	used: 11
+collisions: 0	maxIndex: 2047
+magic number 363:	4611687123453083652	used: 11
+collisions: 0	maxIndex: 2047
+magic number 364:	144274627202514948	used: 11
+collisions: 0	maxIndex: 2047
+magic number 365:	5499177271308	used: 11
+collisions: 0	maxIndex: 2047
+magic number 366:	11538226644535869441	used: 11
+collisions: 0	maxIndex: 2047
+magic number 367:	1441154632775761956	used: 11
+collisions: 0	maxIndex: 2047
+magic number 368:	9448556418455175185	used: 11
+collisions: 0	maxIndex: 2047
+magic number 369:	1126247808761860	used: 11
+collisions: 0	maxIndex: 2047
+magic number 370:	11530341581704003585	used: 11
+collisions: 0	maxIndex: 2047
+magic number 371:	1154891830560751618	used: 11
+collisions: 0	maxIndex: 2047
+magic number 372:	2305843568717201460	used: 11
+collisions: 0	maxIndex: 2047
+magic number 373:	4611686569340960772	used: 11
+collisions: 0	maxIndex: 2047
+magic number 374:	864695528654503937	used: 11
+collisions: 0	maxIndex: 2047
+magic number 375:	590254196545159172	used: 11
+collisions: 0	maxIndex: 2047
+magic number 376:	144038250545156	used: 11
+collisions: 0	maxIndex: 2047
+magic number 377:	9368649551537373188	used: 11
+collisions: 0	maxIndex: 2047
+magic number 378:	1802610332653715457	used: 11
+collisions: 0	maxIndex: 2047
+magic number 379:	9007821102383116	used: 11
+collisions: 0	maxIndex: 2047
+magic number 380:	53878221570052	used: 11
+collisions: 0	maxIndex: 2047
+magic number 381:	295561921839628289	used: 11
+collisions: 0	maxIndex: 2047
+magic number 382:	648804268762071043	used: 11
+collisions: 0	maxIndex: 2047
+magic number 383:	594756902882246675	used: 11
+collisions: 0	maxIndex: 2047
+magic number 384:	4399128772609	used: 11
+collisions: 0	maxIndex: 2047
+magic number 385:	70923336417284	used: 11
+collisions: 0	maxIndex: 2047
+magic number 386:	4399128772613	used: 11
+collisions: 0	maxIndex: 2047
+magic number 387:	4614575558611828753	used: 11
+collisions: 0	maxIndex: 2047
+magic number 388:	2749922148353	used: 11
+collisions: 0	maxIndex: 2047
+magic number 389:	5188147957226143748	used: 11
+collisions: 0	maxIndex: 2047
+magic number 390:	9223381109991145492	used: 11
+collisions: 0	maxIndex: 2047
+magic number 391:	580964904926838788	used: 11
+collisions: 0	maxIndex: 2047
+magic number 392:	4785078102720534	used: 11
+collisions: 0	maxIndex: 2047
+magic number 393:	572313254887441	used: 11
+collisions: 0	maxIndex: 2047
+magic number 394:	18015927526359051	used: 11
+collisions: 0	maxIndex: 2047
+magic number 395:	288373600704135188	used: 11
+collisions: 0	maxIndex: 2047
+magic number 396:	18014675870547977	used: 11
+collisions: 0	maxIndex: 2047
+magic number 397:	21992385413121	used: 11
+collisions: 0	maxIndex: 2047
+magic number 398:	2470246438485229569	used: 11
+collisions: 0	maxIndex: 2047
+magic number 399:	4521468906569729	used: 11
+collisions: 0	maxIndex: 2047
+magic number 400:	234196838461341697	used: 11
+collisions: 0	maxIndex: 2047
+magic number 401:	290567430995972	used: 11
+collisions: 0	maxIndex: 2047
+magic number 402:	1271072498515973	used: 11
+collisions: 0	maxIndex: 2047
+magic number 403:	4756082682830716930	used: 11
+collisions: 0	maxIndex: 2047
+magic number 404:	27026546657198084	used: 11
+collisions: 0	maxIndex: 2047
+magic number 405:	2594083317632598020	used: 11
+collisions: 0	maxIndex: 2047
+magic number 406:	1297072978252660740	used: 11
+collisions: 0	maxIndex: 2047
+magic number 407:	4616194019381346305	used: 11
+collisions: 0	maxIndex: 2047
+magic number 408:	2346656882988482562	used: 11
+collisions: 0	maxIndex: 2047
+magic number 409:	1155454780479963154	used: 11
+collisions: 0	maxIndex: 2047
+magic number 410:	2252910067056644	used: 11
+collisions: 0	maxIndex: 2047
+magic number 411:	288233130352050180	used: 11
+collisions: 0	maxIndex: 2047
+magic number 412:	285874373918737	used: 11
+collisions: 0	maxIndex: 2047
+magic number 413:	4611706089087041540	used: 11
+collisions: 0	maxIndex: 2047
+magic number 414:	144116289739292676	used: 11
+collisions: 0	maxIndex: 2047
+magic number 415:	2305845763647340556	used: 11
+collisions: 0	maxIndex: 2047
+magic number 416:	325394436111859713	used: 11
+collisions: 0	maxIndex: 2047
+magic number 417:	145241709746454563	used: 11
+collisions: 0	maxIndex: 2047
+magic number 418:	649679997560291363	used: 11
+collisions: 0	maxIndex: 2047
+magic number 419:	13979454719484035074	used: 11
+collisions: 0	maxIndex: 2047
